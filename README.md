@@ -1,5 +1,11 @@
 # Анализ эпигенетических генов и вторичных ДНК-структур в геноме Stable fly
-Выбранный организм - stable fly. Геном и доп. файлы (proteins и gff) были скачаны по ссылке: https://www.ncbi.nlm.nih.gov/datasets/taxonomy/35570/ (геном сюда не выкладываю, так как он больше 1 гб).
+Выбранный организм - stable fly (Stomoxys calcitrans). Геном и доп. файлы (proteins и gff) были скачаны по ссылке: https://www.ncbi.nlm.nih.gov/datasets/taxonomy/35570/ (геном сюда не выкладываю, так как он больше 1 гб). Информация о
+
+![image](https://github.com/user-attachments/assets/6afe1017-be17-4bab-ab76-c48cfd290cd8)
+
+![image](https://github.com/user-attachments/assets/c8904c16-5896-48fd-a8af-46c96f838bde)
+
+
 
  # Поиск генов, отвечающих за эпигенетику (см. тетрадку hmmer)
  Для поиска были выбраны следующие семейства:
